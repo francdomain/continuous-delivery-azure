@@ -9,7 +9,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  AZURE_RESOURCE_GROUP: cd-with-actions
+  AZURE_RESOURCE_GROUP: cd-using-actions
   AZURE_APP_PLAN: francdomain-ttt-deployment
   AZURE_LOCATION: '"East US"'
   AZURE_WEBAPP_NAME: francdomain-ttt-app
